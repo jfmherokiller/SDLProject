@@ -1,7 +1,5 @@
 #include <iostream>
 #include <SDL.h>
-
-
 /*
 * Lesson 1: Hello World!
 */
